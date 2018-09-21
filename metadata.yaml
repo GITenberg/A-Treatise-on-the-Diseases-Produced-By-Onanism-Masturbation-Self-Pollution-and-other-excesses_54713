@@ -1,11 +1,16 @@
 _repo: A-Treatise-on-the-Diseases-Produced-By-Onanism-Masturbation-Self-Pollution-and-other-excesses_54713
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54713-h/images/cover.jpg
 creator:
   author:
     agent_name: Deslandes, Léopold
     gutenberg_agent_id: '48008'
     url: http://www.gutenberg.org/2009/agents/48008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54713#A-Treatise-on-the-Diseases-Produced-By-Onanism-Masturbation-Self-Pollution-and-other-excesses
 gutenberg_issued: '2017-05-13'
 gutenberg_type: Text
 identifiers:
